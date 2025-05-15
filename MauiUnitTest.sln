@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiUnitTest", "MauiUnitTest\MauiUnitTest.csproj", "{12B9D7B3-52B8-439A-9537-3DC49BFB7275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiUriExtensions.UnitTest", "MauiUriExtensions.UnitTest\MauiUriExtensions.UnitTest.csproj", "{F2C9311F-555F-4BBB-A786-6E1FEB12853B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B9D7B3-52B8-439A-9537-3DC49BFB7275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B9D7B3-52B8-439A-9537-3DC49BFB7275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B9D7B3-52B8-439A-9537-3DC49BFB7275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B9D7B3-52B8-439A-9537-3DC49BFB7275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C9311F-555F-4BBB-A786-6E1FEB12853B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C9311F-555F-4BBB-A786-6E1FEB12853B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C9311F-555F-4BBB-A786-6E1FEB12853B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C9311F-555F-4BBB-A786-6E1FEB12853B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
